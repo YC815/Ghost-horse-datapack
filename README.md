@@ -1,2 +1,2 @@
-# Ghost-horse-datapack
-靈馬資料包
+# 靈馬資料包
+
