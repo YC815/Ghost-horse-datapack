@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        "#R#",
+        "/S "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "R": {
+            "item": "minecraft:leather_horse_armor"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "S": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:diamond_horse_armor",
+        "count": 1
+    }
+}

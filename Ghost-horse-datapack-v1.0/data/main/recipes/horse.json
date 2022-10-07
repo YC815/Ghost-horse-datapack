@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#SD",
+        " L ",
+        "NC "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:end_crystal"
+        },
+        "S": {
+            "item": "minecraft:saddle"
+        },
+        "D": {
+            "item": "minecraft:diamond_horse_armor"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "C": {
+            "item": "minecraft:carrot_on_a_stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

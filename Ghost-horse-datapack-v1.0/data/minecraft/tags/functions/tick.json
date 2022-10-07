@@ -1,0 +1,9 @@
+{
+    "values": [
+        "main:tick/clear",
+        "main:tick/horse",
+        "main:tick/invisibility",
+        "main:tick/kill",
+        "main:tick/marker"
+    ]
+}
